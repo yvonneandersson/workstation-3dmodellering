@@ -31,7 +31,7 @@ Component selection is based on:
 
 ---
 
-## 🧩 Results: Documentation and Tools
+## 🧩 Results: Documentation and Tools (Swedish)
 
 All hardware details are provided in the Excel file `Systemkrav_Tabell_HT2021.xlsx`, including:
 
