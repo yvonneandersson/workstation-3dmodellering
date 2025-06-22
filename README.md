@@ -40,3 +40,7 @@ All hardware details are provided in the Excel file `Systemkrav_Tabell_HT2021.xl
 - Compatibility validation (e.g., CPU socket, RAM type)
 - Justifications for component choices
 - Total system cost
+
+![](https://i.imgur.com/FZKhmFR.png)
+![](https://i.imgur.com/hmeq1A8.png)
+![](https://i.imgur.com/t2g2vbB.png)
